@@ -1,0 +1,6 @@
+Aim for OS Lab-2
+To study getcwd, opendir, readdir functions and implementation of pwd, ls commands.
+Programs to be written in Journal:
+1. Implementation of pwd command.
+2. Implementation of basic ls functionality.
+3. Implementation of recursive ls version.

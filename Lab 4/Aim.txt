@@ -1,0 +1,4 @@
+Aim for OS Lab-4:
+To study details of proc file system and implementation of ps command.
+Program to be written in Journal:
+1. Implementation of ps command to print Process ID and name using proc file system.

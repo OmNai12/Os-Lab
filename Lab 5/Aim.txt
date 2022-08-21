@@ -1,0 +1,7 @@
+Aim for OS Lab-5:
+To study thread creation and termination
+Programs to be written in Journal:
+1. WAP to create two threads and each thread should print hello message using the threaded function.
+2. WAP to create a thread which should pass a character string to threaded function.
+3. WAP to create simple calculator using threads.
+4. WAP to demonstrate use of mutex for handling global variables.

@@ -1,0 +1,6 @@
+Aim for OS Lab-3:
+Process Creation and Termination (Study of fork, wait, getpid, and getppid system calls).
+Programs to be written in Journal:
+1. WAP to print hello messages from parent and child processes with respective process IDs.
+2. WAP to implement fan of n-processes.
+3. WAP to implement chain of n-processes.

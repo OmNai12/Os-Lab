@@ -1,0 +1,6 @@
+Aim for OS Lab-1 
+To study read, write. open, close system calls and implementation of cat, cp commands.
+Programs to be written in Journal:
+1. Implementation of cat command with echo and file concatenation functionalities.
+2. Implementation of cp command with following features
+a. Destination file already existing b. Destination file does not exist.
